@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap')
+</style>
+font-family: "Nabla", system-ui;
+
 img{
 font-size: 50px;
 display: block;
@@ -9,4 +13,7 @@ background-color: chocolate;
 }
 h1{
 color: chartreuse;
+}
+#dias_restantes{
+
 }
