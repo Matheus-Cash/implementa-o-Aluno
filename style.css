@@ -1,19 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap')
-</style>
-font-family: "Nabla", system-ui;
-
-img{
-font-size: 50px;
-display: block;
-
-
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap') body {
+   
 }
+
 body{
-background-color: chocolate;
+    background-color: chocolate;
+    font-family: "Nabla", system-ui;
 }
-h1{
-color: chartreuse;
-}
-#dias_restantes{
 
+
+img {
+    font-size: 50px;
+    display: block;
+}
+
+
+h1 span {
+    color: chartreuse;
+}
+
+#dias_restantes {
+    color: red;
+    font-size: 50px;
 }
